@@ -1,6 +1,8 @@
-## Note
+## Notes
 
 - This app uses a legacy version of `mobx` and `mobx-react` for testing purposes. When installing dependencies using `npm`, you may need to use the `--force` option.
+
+- The counter works WITHOUT turbopack (by removing `--turbopack` from `next dev`) and does not work with turbopack.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 

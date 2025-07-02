@@ -1,3 +1,7 @@
+## Note
+
+- This app uses a legacy version of `mobx` and `mobx-react` for testing purposes. When installing dependencies using `npm`, you may need to use the `--force` option.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
